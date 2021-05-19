@@ -1,0 +1,6 @@
+{
+  "token": "ODI4NjIxMjA1ODEyNTQzNTI4.YGsPog.Gze4zKjhC0_ByWA4i1AAF2PLJ90",
+  "prefix": ["."],
+  "mongoUrl": "mongodb+srv://mybot:ipek@cluster0.ofmxg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "owners": []
+}
